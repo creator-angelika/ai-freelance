@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Angelika Thomas",
+      "skill": "Full-stack Developer",
+      "bio": "Experienced full-stack developer with a passion for building robust applications.",
+      "profilePicture": "https://via.placeholder.com/150",
+      "location": "New York, USA",
+      "jobApplications": [
+        { "jobId": 1, "status": "Applied" },
+        { "jobId": 2, "status": "Pending" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "skill": "Graphic Designer",
+      "bio": "Creative graphic designer specializing in branding and web design.",
+      "profilePicture": "https://via.placeholder.com/150",
+      "location": "London, UK",
+      "jobApplications": [
+        { "jobId": 3, "status": "Rejected" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Alex Johnson",
+      "skill": "SEO Specialist",
+      "bio": "SEO expert with a track record of increasing organic traffic and rankings.",
+      "profilePicture": "https://via.placeholder.com/150",
+      "location": "Sydney, Australia",
+      "jobApplications": [
+        { "jobId": 1, "status": "Applied" },
+        { "jobId": 3, "status": "Pending" }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Sarah Williams",
+      "skill": "Mobile App Developer",
+      "bio": "Passionate mobile app developer creating high-performance apps.",
+      "profilePicture": "https://via.placeholder.com/150",
+      "location": "Berlin, Germany",
+      "jobApplications": [
+        { "jobId": 2, "status": "Accepted" },
+        { "jobId": 4, "status": "Applied" }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Mark Taylor",
+      "skill": "Data Scientist",
+      "bio": "Data scientist with expertise in machine learning and data analysis.",
+      "profilePicture": "https://via.placeholder.com/150",
+      "location": "Toronto, Canada",
+      "jobApplications": [
+        { "jobId": 1, "status": "Pending" },
+        { "jobId": 5, "status": "Applied" }
+      ]
+    }
+  ]
+  

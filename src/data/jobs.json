@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "title": "Web Developer for E-commerce Site",
+      "status": "Open",
+      "description": "We are looking for a skilled web developer to build and maintain an e-commerce website.",
+      "company": "Tech Solutions",
+      "location": "New York, USA"
+    },
+    {
+      "id": 2,
+      "title": "Graphic Designer for Branding",
+      "status": "Open",
+      "description": "A creative graphic designer is needed for branding and design projects.",
+      "company": "Creative Studio",
+      "location": "London, UK"
+    },
+    {
+      "id": 3,
+      "title": "Content Writer for Blog Posts",
+      "status": "Closed",
+      "description": "Looking for a content writer to write blog posts about technology trends.",
+      "company": "Tech Insights",
+      "location": "Remote"
+    },
+    {
+      "id": 4,
+      "title": "Mobile App Developer for Health App",
+      "status": "Open",
+      "description": "We need a mobile app developer to create a fitness and health tracking app.",
+      "company": "Healthify",
+      "location": "Berlin, Germany"
+    },
+    {
+      "id": 5,
+      "title": "Data Scientist for AI Project",
+      "status": "Open",
+      "description": "We are looking for a data scientist to work on an AI-powered analytics project.",
+      "company": "AI Innovators",
+      "location": "Toronto, Canada"
+    },
+    {
+      "id": 6,
+      "title": "Marketing Specialist for Product Launch",
+      "status": "Open",
+      "description": "Seeking an experienced marketing specialist to launch our new product line.",
+      "company": "MarketPro",
+      "location": "Los Angeles, USA"
+    },
+    {
+      "id": 7,
+      "title": "UI/UX Designer for Mobile App",
+      "status": "Open",
+      "description": "Looking for a talented UI/UX designer to create a seamless user experience for our mobile app.",
+      "company": "Design Tech",
+      "location": "San Francisco, USA"
+    },
+    {
+      "id": 8,
+      "title": "Cloud Engineer for Cloud Migration",
+      "status": "Open",
+      "description": "Hiring a cloud engineer to assist with migrating our infrastructure to the cloud.",
+      "company": "Cloud Solutions",
+      "location": "Sydney, Australia"
+    },
+    {
+      "id": 9,
+      "title": "SEO Specialist for E-commerce Website",
+      "status": "Open",
+      "description": "We need an SEO expert to optimize our e-commerce site for search engines.",
+      "company": "Shopify Pro",
+      "location": "Chicago, USA"
+    },
+    {
+      "id": 10,
+      "title": "Project Manager for Tech Startup",
+      "status": "Open",
+      "description": "Looking for a project manager to oversee product development and team coordination in our tech startup.",
+      "company": "Tech Innovators",
+      "location": "Vancouver, Canada"
+    }
+  ]
+  
